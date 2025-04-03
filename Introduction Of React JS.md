@@ -31,8 +31,6 @@ React, also known as React.js or ReactJS, is a JavaScript library for building u
 
 Throughout its evolution, React has maintained a focus on enhancing developer experience and performance, solidifying its position as a leading tool for building modern user interfaces.
 
-![Image 2](https://i.postimg.cc/mPc1PxX4/Fwfpzf-XWAAAjr0i.jpg)
-
 ---
 
 ## React vs next vs vue ?
@@ -65,9 +63,6 @@ When evaluating **React**, **Next.js**, and **Vue.js** for your project, it's es
     - **Component-Based Architecture:** Similar to React, it promotes the development of reusable components.
     - **Directives and Transitions:** Offers a set of directives to add special behaviors to the DOM, and provides transition effects when elements are inserted, updated, or removed.
 - **Use Cases:** Great for developing single-page applications (SPAs) and can be integrated into projects where a lightweight, flexible framework is needed.
-    
-    ![Vue React Stats](https://i.postimg.cc/mtgHG17t/395aaeb5-0792-451a-8a1e-e0fd17a20cdd-vue-react-stats.avif)
-    
 
 ### **Comparative Insights:**
 
@@ -86,7 +81,7 @@ Choosing between React, Next.js, and Vue.js depends on your project requirements
 
 Each technology has its strengths, and the decision should align with your project's specific needs and your team's expertise.
 
-[395aaeb5-0792-451a-8a1e-e0fd17a20cdd_vue_react_stats.avif](attachment:63286557-698f-4ffb-93d7-ea3cfafffb7b:395aaeb5-0792-451a-8a1e-e0fd17a20cdd_vue_react_stats.avif)
+---
 
 ### USE CASE OF REACT
 
@@ -108,6 +103,8 @@ React.js is a versatile JavaScript library widely used for building dynamic and 
 
 These examples illustrate React's flexibility and capability to power a wide range of applications, from simple websites to complex, data-driven platforms.
 
+---
+
 ### Companies using react
 
 React.js has been widely adopted by numerous companies across various industries to build dynamic and efficient user interfaces. Here are some notable examples:
@@ -124,6 +121,8 @@ React.js has been widely adopted by numerous companies across various industries
 - **Pinterest:** Utilizes React to develop dynamic and engaging user interfaces for its visual discovery engine. [StackShare](https://stackshare.io/react?utm_source=chatgpt.com)
 
 These examples illustrate React's versatility and effectiveness in building high-performance, user-friendly applications across various sectors.
+
+---
 
 ### When To Use ReactJS?
 
@@ -145,6 +144,8 @@ React.js is a powerful JavaScript library designed for building user interfaces,
 
 In summary, React is well-suited for projects that demand dynamic, high-performance, and maintainable user interfaces, particularly when reusability, community support, and potential mobile development are key considerations.
 
+---
+
 ### When To Use ReactJS?
 
 Next.js is a React framework that enhances web development by offering features like server-side rendering (SSR), static site generation (SSG), and API routes. It's particularly beneficial to use Next.js in the following scenarios:[Wikipedia](https://en.wikipedia.org/wiki/Next.js?utm_source=chatgpt.com)
@@ -162,6 +163,8 @@ Next.js is a React framework that enhances web development by offering features 
 **6. Integration with Various Backends:**Next.js can be integrated with different backend technologies, providing flexibility in choosing the appropriate stack for your project. [Leobit](https://leobit.com/blog/overview-of-next-js-for-modern-web-apps-pros-cons-and-use-cases/?utm_source=chatgpt.com)
 
 In summary, Next.js is a robust choice for projects that demand enhanced performance, SEO optimization, and a streamlined development process, especially when working within the React ecosystem.
+
+---
 
 ### ReactJS popular features
 
