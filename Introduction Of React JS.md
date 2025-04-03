@@ -31,7 +31,7 @@ React, also known as React.js or ReactJS, is a JavaScript library for building u
 
 Throughout its evolution, React has maintained a focus on enhancing developer experience and performance, solidifying its position as a leading tool for building modern user interfaces.
 
-![FwfpzfXWAAAjr0i.jpg](attachment:7911c56e-203a-477b-a9f2-cc57609e069b:FwfpzfXWAAAjr0i.jpg)
+![Image 2](https://i.postimg.cc/mPc1PxX4/Fwfpzf-XWAAAjr0i.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ When evaluating **React**, **Next.js**, and **Vue.js** for your project, it's es
     - **Directives and Transitions:** Offers a set of directives to add special behaviors to the DOM, and provides transition effects when elements are inserted, updated, or removed.
 - **Use Cases:** Great for developing single-page applications (SPAs) and can be integrated into projects where a lightweight, flexible framework is needed.
     
-    ![Untitled_design_1_9f28a7d4de.jpg](attachment:d6ccb8c5-48f6-4052-8ae9-bfde42bbdff0:Untitled_design_1_9f28a7d4de.jpg)
+    ![Vue React Stats](https://i.postimg.cc/mtgHG17t/395aaeb5-0792-451a-8a1e-e0fd17a20cdd-vue-react-stats.avif)
     
 
 ### **Comparative Insights:**
